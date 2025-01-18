@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: lightcoral;
+    padding: 10px;
+
+}
+header a{
+    text-decoration: none;
+    border: 2px solid Crimson;
+    padding: 5px;
+}
+h1{
+    color: dimgray;
+    text-align:center;-
+}
+footer{
+    background-color: rgb(1, 200, 255);
+    border-radius: 10px;
+    text-align:center;
+}
+nav{
+    background-color: #00ffee;
+    font-size: 25px;
+    border-radius: 15px;
+    text-align: center;
+    color: red;
+    text-decoration:none;
+}
